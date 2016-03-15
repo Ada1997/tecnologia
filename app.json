@@ -1,0 +1,13 @@
+{
+  "name": "tecnologia",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
